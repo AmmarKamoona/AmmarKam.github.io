@@ -15,7 +15,7 @@
 <table border="0" width="100%" id="top" >
 	 <tr align="right">
      <td></td>
-	 	<td align="right"><p style="text-align:right;font-size:18pt;font-weight: bold; lang:zh-cn; font-family:SimSun"><a href="http://www.uokufa.edu.iq/faculty/staff_sites/en/cv.php?ammarm.kamoona">موقي</a></p></td>
+	 	<td align="right"><p style="text-align:right;font-size:18pt;font-weight: bold; lang:zh-cn; font-family:SimSun"><a href="http://www.uokufa.edu.iq/faculty/staff_sites/en/cv.php?ammarm.kamoona">here</a></p></td>
     	</tr>
 	<tr>
 		<td width="20%">
@@ -24,9 +24,8 @@
 		<img border="0" src="img/images.jpg"></font></td>
 		<td  width="80%"><b> <span class="STYLE7">Ammar Kamoona</span><span lang="zh-cn"  class="STYLE8"></span></b>
 		  <p style="padding-top:1em;padding-bottom:0em"><span class="STYLE9">B.Eng.,MS.c Electrical and Electronic Engineering, Ph.D student</span></p>
-		  <p style="padding-top:0em;padding-bottom:0em"><span class="STYLE9">Rmit University of Technology)</span></p>
-        <p style="padding-top:0em;padding-bottom:0em"><span class="STYLE9">Northwestern Polytechnical University</span></p>
-
+		  <p style="padding-top:0em;padding-bottom:0em"><span class="STYLE9">RMIT University</span></p>
+        <p style="padding-top:0em;padding-bottom:0em"><span class="STYLE9"></span></p>
         <p style="padding-top:1em;padding-bottom:0em"><span class="STYLE9">Melboune, Australia</span></p>
         <p style="padding-top:0em;padding-bottom:0em"><span class="STYLE9">()</span></p>
         <p style="padding-top:0em;padding-bottom:0em"><span class="STYLE9">Tel:  Fax: </span></p>
@@ -66,9 +65,6 @@
      </td>
      <td  align="center">
      	<span class="TabList">[<a href="#ProfessionalActivities">Professional Activities</a>]</span>
-     </td>
-     <td align="center">
-     	<span class="TabList">[<a href="#Grants">Grants</a>]</span>
      </td>
      <td align="center">
          <span class="TabList">[<a href="#Projects">Projects</a>]</span>
@@ -112,11 +108,11 @@
 		<td class="STYLE12">Ph.D student, Rmit University, Australia</td>
 	</tr>
 	<tr>
-		<td class="STYLE11" width="20%">•	01/2016-2018/201</td>
+		<td class="STYLE11" width="20%">•	01/2016-2018</td>
 		<td class="STYLE12">Assistant lectuer, Univesity of Kufa, Iraq</td>
 	</tr>
 	<tr>
-		<td class="STYLE11" width="20%">•	01/2011-2013/201</td>
+		<td class="STYLE11" width="20%">•	01/2011-2013</td>
 		<td class="STYLE12">Assistant Engineer, Univesity of Kufa, Iraq</td>
 	</tr>
 </table>
@@ -146,15 +142,7 @@
 --> 
 <p style="text-align:right;">[<a href="#top" target="_self" ><span style="font-family: Palatino Linotype">↑TOP</span></a>]</p>
     
-<h2 id="Publications" style="text-align:left; padding-top:20px;"><span class="STYLE10">Selected Publications</span></h2>
-<ol style="margin-left:2em">
-	<li class="STYLE13">W. Huang, <b>Q. Wang<font size="2">*</font></b>, and X. Li, “Feature Sparsity in Convolutional Neural Networks for Scene Classification of Remote Sensing Image,” <i>Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2019. <a href="pdf/2019 Feature Sparsity in Convolutional Neural Networks for Scene Classification of Remote Sensing Image.pdf">[PDF]</a></li>  
-	<li class="STYLE13">X. Zhang, <b>Q. Wang</b>, S. Chen, and X. Li, “Multi-Scale Cropping Mechanism for Remote Sensing Image Captioning,” <i>Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2019. <a href="pdf/2019 Multi-Scale Cropping Mechanism for Remote Sensing Image Captioning.pdf">[PDF]</a></li> 
-	<li class="STYLE13">Z. Zhang, <b>Q. Wang</b>, and Y. Yuan, “Hyperspectral Unmixing via L1/4 Sparsity-Constrained Multilayer NMF,” <i>Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2019. <a href="pdf/2019 Hyperspectral Unmixing via L14 Sparsity-Constrained Multilayer NMF.pdf">[PDF]</a></li> 
-	<li class="STYLE13">C. Zhang, <b>Q. Wang<font size="2">*</font></b>, and X. Li, “A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment,” <i>Proc. IEEE International Geoscience and Remote Sensing Symposium (IGARSS)</i>, 2019. <a href="pdf/2019 A Multi-Task Architecture for Remote Sensing by Joint Scene Classification and Image Quality Assessment.pdf">[PDF]</a></li> 
-	
-</ol>
-<p style="text-align:right;">[<a href="#top" target="_self" ><span style="font-family: Palatino Linotype">↑TOP</span></a>]</p>
+
 
 
 <!--
@@ -179,8 +167,8 @@
 <h2 id="Honors" style="text-align:left; padding-top:20px;"><span class="STYLE10">Honors and Awards</span></h2>
 	<table border="0" width="100%" id="table2" >  
 		<tr> 
-			<td class="STYLE11"width="20%">•	2018</td>  
-			<td class="STYLE12">Springer conference Best Student Paper Award</td>
+			<td class="STYLE11"width="20%">•	2017</td>  
+			<td class="STYLE12">Golden key cetrificate</td>
 		</tr>
 
 		<tr>
@@ -225,10 +213,7 @@
 	<p class="STYLE14">•	Neurocomputing (Elsevier), Associate Editor</p>
 -->
 	<p class="STYLE14">•	Remote Sensing (MDPI), Section Editor-in-Chief</p>
-	<p class="STYLE14">• 	IEEE Transactions on Circuits and Systems for Video Technology (IEEE), Associate Editor</p>
-	<p class="STYLE14">•	IEEE Transactions on Systems, Man, and Cybernetics: Systems (IEEE), Associate Editor</p>
-	<p class="STYLE14">•	IEEE Geoscience and Remote Sensing Letters (IEEE), Associate Editor</p>
-	<p class="STYLE14">•	Neurocomputing (Elsevier), Associate Editor</p>	
+
 
 	<p class="STYLE14">•	Big Data Analytics (Springer), Associate Editor</p>
 	<p class="STYLE14">•	Neural Processing Letters (Springer), Associate Editor</p>
@@ -240,42 +225,10 @@
 	<p class="STYLE14">•	IEEE Transactions on Intelligent Transportation Systems (IEEE), Lead Guest Editor</p>	
 
 <p class="STYLE11"><b>Membership:</b></p>
-	<p class="STYLE14">•	IEEE Senior Member</p>
-	<p class="STYLE14">•	ACM Member</p>	
-	<p class="STYLE14">•	China Computer Federation (CCF) Senior Member</p>
-	<p class="STYLE14">•	China Society of Image and Graphics (CSIG) Member</p>
-<!--	<p class="STYLE14">•	IEEE Signal Processing Society Member</p>
-    <p class="STYLE14">•	IEEE Systems, Man, and Cybernetics Society Member</p>
-    <p class="STYLE14">•	IEEE Geoscience and Remote Sensing Society Member</p>
-    <p class="STYLE14">•	IEEE Young Professionals</p>
-    <p class="STYLE14">•	CCF Young Computer Scientists &amp; Engineers Forum（CCF YOCSEF）Member</p>
-    <p class="STYLE14">•	Communication Committee Member for CCF Task Force on Big Data (CCF TFBD)</p>
-    <p class="STYLE14">•	Committee Member for CCF Task Force on Computer Vision （CCF TFCV）</p>
-    <p class="STYLE14">•	Shaanxi Society of Image and Graphics (SSIG) Member</p>
-    <p class="STYLE14">•	Vision And Learning Seminar (VALSE) Online Organization Committee Member</p>-->
-    <p class="STYLE14">•	Vision And Learning Seminar (VALSE) Online Director Board Member</p>
-<p class="STYLE11"><b>Program Committee Member (100+ times)：</b></p>
-<p class="STYLE14">NIPS, AAAI, IJCAI, CVPR, ICCV, ECCV, BMVC, ICASSP, ACM MM, ACPR...</p>
+	<p class="STYLE14">•	IEEE young Member</p>
+	<p class="STYLE14">•	Golden key Member</p>	
+]
 
-<p class="STYLE11"><b>General Chair：</b></p>
-<p class="STYLE14">•	The 3rd International Electronic Conference on Remote Sensing</p>
-
-<p class="STYLE11"><b>Organizing Committee Member：</b></p>
-<p class="STYLE14">•	Annual Summit on Artificial Intelligence</p>
-
-<p class="STYLE11"><b>Program Co-chair：</b></p>
-<p class="STYLE14">•	2015 International Conference on Progress in Informatics and Computing (PIC)</p>
-<p class="STYLE11"><b>Session/Area Chair：</b></p>
-<p class="STYLE14">•	2019 AAAI Conference on Artificial Intelligence (AAAI)</p>
-<p class="STYLE14">•	2019 International Conference on Image and Graphics (ICIG)</p>
-<p class="STYLE14">•	2017 AAAI Conference on Artificial Intelligence (AAAI)</p>
-<p class="STYLE14">•	2017 International Joint Conference on Artificial Intelligence (IJCAI)</p>
-			 
-
-<p class="STYLE11"><b>Regular Reviewer (40+  journals)：</b></p>
-<p class="STYLE14">IJCV, IEEE T-IP, IEEE T-NNLS, IEEE T-CSVT, IEEE T-CYB, IEEE T-MM, IEEE T-MI, IEEE T-HMS, IEEE T-SMC:S, IEEE T-GRS, IEEE</p>
-<p class="STYLE14-3"> T-STSP, IEEE T-JSTARS, IEEE T-ITS, PR, CVIU...</p
->
     
 <!--
     <p class="STYLE14">•	IEEE Transactions on Image Processing (IEEE)</p>
