@@ -94,7 +94,7 @@
 <table border="0" width="100%" id="table2" >
 	<tr>
 		<td class="STYLE11" width="20%">•	09/2005-07/2010</td>
-		<td class="STYLE12">Msc., Electrical &Electronic Engineering, Swinburne University of Technology (USTC)</td>
+		<td class="STYLE12">Msc., Electrical &Electronic Engineering, Swinburne University of Technology</td>
 	</tr>
 	<tr>
 		<td class="STYLE11" width="20%">•	09/2001-07/2005</td>
