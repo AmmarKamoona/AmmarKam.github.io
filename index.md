@@ -15,7 +15,7 @@
 <table border="0" width="100%" id="top" >
 	 <tr align="right">
      <td></td>
-	 	<td align="right"><p style="text-align:right;font-size:18pt;font-weight: bold; lang:zh-cn; font-family:SimSun"><a href="http://www.uokufa.edu.iq/faculty/staff_sites/en/cv.php?ammarm.kamoona">here</a></p></td>
+	 	<td align="right"><p style="text-align:right;font-size:18pt;font-weight: bold; lang:zh-cn; font-family:SimSun"><a href="http://www.uokufa.edu.iq/faculty/staff_sites/en/cv.php?ammarm.kamoona">university site</a></p></td>
     	</tr>
 	<tr>
 		<td width="20%">
@@ -62,13 +62,15 @@
      </td> -->
      <td align="center">
      	<span class="TabList">[<a href="#Honors">Honors & Awards</a>]</span>
-     </td>
+     </td> 
+	 <!--
      <td  align="center">
      	<span class="TabList">[<a href="#ProfessionalActivities">Professional Activities</a>]</span>
-     </td>
+     </td>-->
+	 <!--
      <td align="center">
          <span class="TabList">[<a href="#Projects">Projects</a>]</span>
-     </td>
+     </td>-->
      </tr>
  </table>
   <hr/>
@@ -169,60 +171,26 @@
 		<tr> 
 			<td class="STYLE11"width="20%">•	2017</td>  
 			<td class="STYLE12">Golden key cetrificate</td>
+		</tr>       
+		<tr> 
+			<td class="STYLE11"width="20%">• 	2015</td>  
+			<td class="STYLE12">Excelence certificate in RF cirucit desing, Swinbune University of technology</td>
 		</tr>
-
 		<tr>
-			<td class="STYLE11" width="20%">•	2017</td>
-			<td class="STYLE12">IEEE T-GRS Best Reviewer</td>
-		</tr>
-
-		<tr>
-			<td class="STYLE11" width="20%">•	2014</td>
-			<td class="STYLE12">IEEE conference Best Paper Award</td>
+			<td class="STYLE11" width="20%">•	2015</td>
+			<td class="STYLE12">Excelence certificate in stochastic modelling, Swinbune University of technology</td>
 		</tr>
 		<tr>
 			<td class="STYLE11" width="20%">•	2014</td>
-			<td class="STYLE12">IEEE conference Honorable Mention Award</td>
+			<td class="STYLE12">HCED scholarship awards</td>
 		</tr>
-
-		<!-- 2017/11/7注释掉 
-		<tr>
-			<td class="STYLE11" width="20%">•	2010</td>
-			<td class="STYLE12">Outstanding Graduate of University of Science and Technology of China</td>
-		</tr>
-		-->
-		<!--
-		<tr>
-			<td class="STYLE11" width="20%">•	2010</td>
-			<td class="STYLE12">Outstanding Graduate of Anhui Province, China</td>
-		</tr>
-		-->
 	</table>
 <p style="text-align:right;">[<a href="#top" target="_self" ><span style="font-family: Palatino Linotype">↑TOP</span></a>]</p>
 
-
+<!--
 <h2 id="ProfessionalActivities" style="text-align:left; padding-top:20px;"><span class="STYLE10">Professional Activities</span></h2>
 <p class="STYLE11"><b>Editor Board:</b></p>    
-	<!-- 
-	<p class="STYLE14">•	Remote Sensing, Section Editor-in-Chief</p>
-	<p class="STYLE14">•	IEEE Transactions on Systems, Man, and Cybernetics: Systems, Associate Editor</p>
-	<p class="STYLE14">•	IEEE Geoscience and Remote Sensing Letters, Associate Editor</p>
-	<p class="STYLE14">•	IET Computer Vision, Associate Editor</p> 
-	<p class="STYLE14">•	IET Image Processing, Associate Editor</p>  
-	<p class="STYLE14">•	Neural Processing Letters(Springer), Associate Editor</p> 
-	<p class="STYLE14">•	Neurocomputing (Elsevier), Associate Editor</p>
 -->
-	<p class="STYLE14">•	Remote Sensing (MDPI), Section Editor-in-Chief</p>
-
-
-	<p class="STYLE14">•	Big Data Analytics (Springer), Associate Editor</p>
-	<p class="STYLE14">•	Neural Processing Letters (Springer), Associate Editor</p>
-	<p class="STYLE14">•	Multimedia Tools and Applications (Springer), Editor Board Member</p>
-	<p class="STYLE14">•	IET Image Processing (IET), Associate Editor</p>	
-
-	<p class="STYLE14">•	IET Computer Vision (IET), Associate Editor</p>
-	<p class="STYLE14">•	IEEE Transactions on Industrial Electronics (IEEE), Guest Editor</p>
-	<p class="STYLE14">•	IEEE Transactions on Intelligent Transportation Systems (IEEE), Lead Guest Editor</p>	
 
 <p class="STYLE11"><b>Membership:</b></p>
 	<p class="STYLE14">•	IEEE young Member</p>
@@ -230,30 +198,6 @@
 ]
 
     
-<!--
-    <p class="STYLE14">•	IEEE Transactions on Image Processing (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on Neural Networks and Learning Systems (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on Circuits and Systems for Video Technology (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on Cybernetics (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on Multimedia (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on Medical Imaging (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on Human-Machine Systems (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on  Systems, Man and Cybernetics: Systems (IEEE)</p>
-    <p class="STYLE14">•	IEEE Transactions on Geoscience and Remote Sensing (IEEE)</p>
--->
-
-<!--    <p class="STYLE14">•	China Communications (IEEE)</p>
-    <p class="STYLE14">•	IET Computer Vision (IET)</p>
-    <p class="STYLE14">•	IET Image Processing (IET)</p>-->
-
-    <!--
-    <p class="STYLE14">•	Journal of Selected Topics in Signal Processing (IEEE)</p>
-    <p class="STYLE14">•	IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (IEEE)</p>
-    <p class="STYLE14">•	IEEE Intelligent Transportation Systems Magazine (IEEE)</p>
-    <p class="STYLE14">•	Information Sciences (Elsevier)</p>
-    <p class="STYLE14">•	Pattern Recognition (Elsevier)</p>
-    <p class="STYLE14">•	Computer Vision and Image Understanding (Elsevier)</p>
-    -->
 
 <!--    <p class="STYLE14">•	Neurocomputing (Elsevier)</p>
     <p class="STYLE14">•	Signal Processing (Elsevier)</p>
@@ -284,16 +228,6 @@
 <p style="text-align:right;">[<a href="#top" target="_self" ><span style="font-family: Palatino Linotype">↑TOP</span></a>]</p>
 
 
-			
-<h2 id="Grants" style="text-align:left; padding-top:20px;"><span class="STYLE10">Grants (20+)</span></h2>
-	<p class="STYLE14">•    National Key R&D Program of China</p>
-	<p class="STYLE14">•	National Basic Research Program of China (973 Program)</p>
-	<p class="STYLE14">•	State Key Program of National Natural Science Foundation of China</p>
-	<p class="STYLE14">•	Major Research Plan of National Natural Science Foundation of China</p>
-	<p class="STYLE14">•	National Natural Science Foundation of China</p>
-	<p class="STYLE14">•	China Postdoctoral Science Foundation</p>
-	<p class="STYLE14">•	Natural Science Foundation Research Project of Shaanxi Province</p>
-	<p class="STYLE14">•	Open Research Fund of Chinese Academy of Sciences</p>
 <!--    <p class="STYLE15">•	<i>Saliency Detection by Multi-source Images and Its Application in Image Resizing</i></p>
     <p class="STYLE14">&nbsp;&nbsp;	Principal investigator, 01/2014-12/2017</p>
     <p class="STYLE14">&nbsp;&nbsp;	Funded by National Science Foundation of China</p>
@@ -335,15 +269,17 @@
     <p class="STYLE14">&nbsp;&nbsp;	Funded by Major Research Project of the National Natural Science Foundation of China</p>               
     <p style="text-align:right;">[<a href="#top" target="_self"><span style="font-family: Palatino Linotype">↑TOP</span></a>]</p>
 -->
+<!---
 <h2 id="Projects" style="text-align:left; padding-top:20px;"><span class="STYLE10">Projects</span></h2>
             <p class="STYLE11">My research projects mainly concentrate on three aspects.</p>
             <!--<p class="STYLE11"><b>1.</b> Vision functions for driver assistance systems and autonomous driving systems. Typical examples include: </p>-->
+	    <!--
             <table border="0" width="100%" id="tablep1">
                 <tr>
                     <td class="STYLE11" width="5%"><b>1.</b></td>
                     <td class="STYLE17">Vision functions for driver assistance systems and autonomous driving systems. Typical examples include: Lane Departure Warning, Traffic Sign Recognition, Pedestrian Collision Warning, Traffic Light Recognition, Driver Behavior Analysis, and Road Marking Detection and Recognition.</td>
                 </tr>
-               
+              
             </table>
             <br>
              <p class="STYLE15">•	<b>Intelligent Driving Systems</b>&nbsp;</a><font color="blue">[Demo </font><a style="color:#FF0000" href="http://pan.baidu.com/s/1geSESYB"><font size="2">Link1 </font></a> <a style="color:#FF0000" href="https://mailnwpueducn-my.sharepoint.com/:v:/g/personal/songchunbiao_mail_nwpu_edu_cn/ER6PzyCzOCZEreOiqoVS-58BJjZJnmD2sDQTva0QeB8OOw"><font size="2">Link2</font> </a> <font color="blue">]</font>
@@ -468,7 +404,7 @@
         </div><!-- end container -->
     </div><!-- end main-wrap -->
 </div>
-
+<!--
 <div id="footer-wrap">
     <div  class="container" align="center">
     <p><span id="idTestJson" style="color:#EEE;font-size: 14pt;font-family: "Palatino Linotype","Book Antiqua",Palatino,serif;">Last updated: September 2018 </span></p>
